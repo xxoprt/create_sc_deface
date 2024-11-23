@@ -47,7 +47,7 @@ if pilih ==1:
 	a_6 = '  <body bgcolor="black">\n'
 	a_7 = "    <center>\n"
 	a_8 = '      <img src="{}" width="250px" height="250px"><br>\n'.format(p4)
-	a_9 = '      <h3 style="color:white;font-style:Times New Roman,Times,serif">{}}</h3>\n'.format(p2)
+	a_9 = '      <h3 style="color:white;font-style:Times New Roman,Times,serif">{}</h3>\n'.format(p2)
 	a_10 = '      <font style="color:red;font-family:Lucida Console,Courier New,monospace;style:italic;font-weight:bold;">haiii guys, websait ini telah diretas oleh</font>\n'
 	a_11 = '      <font style="color:white;font-family:Lucida Console,Courier New,monospace;style:italic;font-weight:bold;">ghannyxploit404. btw kalian mau ngapain disini</font><br><br>\n'
 	a_12 = '      <br><br>\n'
